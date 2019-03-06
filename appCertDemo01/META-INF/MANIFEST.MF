@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Created-By: Developer_BostjanStupica
+Built-By: Developer_BostjanStupica
+Implementation-Title: CertDemo01
+Implementation-Version: 1.0.0.1
+Implementation-Vendor: Developer_BostjanStupica
+Specification-Title: CertDemo01
+Specification-Version: 1.0
+Specification-Vendor: Developer_BostjanStupica
+
+Name: CertDemo01
